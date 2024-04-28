@@ -1,0 +1,7 @@
+.dark{
+    filter: invert(1);
+    background-color: black;
+}
+.moon{
+    background-color: red;
+}
