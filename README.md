@@ -13,8 +13,7 @@ Responsive UI: Built with Chakra UI to ensure seamless experience across devices
 Minimalistic Design: Intuitive and user-friendly interface for easy navigation.
 
 Live Demo
-[
-Crypto Tracker Live]([https://vercel.com/talkeen-ahmad-nomanis-projects/coin](https://coin-lime.vercel.app/))
+https://coin-lime.vercel.app/
 
 Installation & Setup
 
