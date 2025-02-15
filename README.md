@@ -13,14 +13,14 @@ Responsive UI: Built with Chakra UI to ensure seamless experience across devices
 Minimalistic Design: Intuitive and user-friendly interface for easy navigation.
 
 Live Demo
-
-Crypto Tracker Live
+[
+Crypto Tracker Live](https://vercel.com/talkeen-ahmad-nomanis-projects/coin)
 
 Installation & Setup
 
 1. Clone the Repository
 
-git clone https://github.com/TalkeenAhmadNomani/crypto-tracker.git
+git clone https://github.com/TalkeenAhmadNomani/coin.git
 cd crypto-tracker
 
 2. Install Dependencies
