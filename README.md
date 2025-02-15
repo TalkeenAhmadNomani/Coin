@@ -14,7 +14,7 @@ Minimalistic Design: Intuitive and user-friendly interface for easy navigation.
 
 Live Demo
 [
-Crypto Tracker Live](https://vercel.com/talkeen-ahmad-nomanis-projects/coin)
+Crypto Tracker Live]([https://vercel.com/talkeen-ahmad-nomanis-projects/coin](https://coin-lime.vercel.app/))
 
 Installation & Setup
 
